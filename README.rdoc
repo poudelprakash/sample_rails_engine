@@ -1,3 +1,6 @@
 = TestPlugin
 
-This project rocks and uses MIT-LICENSE.
+This is simple start project for rails engine using rspec.
+
+Refrence:
+http://www.andrewhavens.com/posts/27/how-to-create-a-new-rails-engine-which-uses-rspec-and-factorygirl-for-testing/
